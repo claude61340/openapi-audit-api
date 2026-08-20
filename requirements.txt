@@ -1,2 +1,4 @@
 fastapi
 uvicorn[standard]
+PyYAML
+openapi-spec-validator
